@@ -6,7 +6,7 @@ public class HelloWorldMain {
 		
 		System.out.println("This is a test project.");
 		
-		System.out.println("This is a change that is introduced.);
+		System.out.println("This is a change that is introduced.");
 
 	}
 
